@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "CH4NGE / Giga（covered by 棗いつき）",
+  "base_artist": "棗いつき",
+  "createdAt": "2025-12-05T09:39:48.123409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CH4NGE",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/01_CH4NGE_Giga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CH4NGE",
+      "artist": "Giga-P feat. KAFU",
+      "has_synced": true,
+      "path": "select/02_CH4NGE_Giga-P_feat._KAFU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CH4NGE",
+      "artist": "Giga feat. 可不",
+      "has_synced": true,
+      "path": "select/03_CH4NGE_Giga_feat._可不.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CH4NGE",
+      "artist": "Zeeth",
+      "has_synced": true,
+      "path": "select/04_CH4NGE_Zeeth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "CH4NGE",
+      "artist": "Giga",
+      "has_synced": false,
+      "path": "select/05_CH4NGE_Giga.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CH4NGE",
+      "artist": "GigaP",
+      "has_synced": true,
+      "path": "select/06_CH4NGE_GigaP.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "CH4NGE",
+      "artist": "Giga ft. 可不",
+      "has_synced": true,
+      "path": "select/07_CH4NGE_Giga_ft._可不.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CH4NGE - feat. KAFU",
+      "artist": "Giga feat. 可不",
+      "has_synced": true,
+      "path": "select/08_CH4NGE_-_feat._KAFU_Giga_feat._可不.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CH4NGE (feat. 可不)",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/09_CH4NGE_(feat._可不)_Giga.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "CH4NGE - Self Cover",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/10_CH4NGE_-_Self_Cover_Giga.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "CH4NGE (Self Cover)",
+      "artist": "Giga",
+      "has_synced": false,
+      "path": "select/11_CH4NGE_(Self_Cover)_Giga.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CH4NGE - feat. KAFU",
+      "artist": "Giga/可不",
+      "has_synced": true,
+      "path": "select/12_CH4NGE_-_feat._KAFU_Giga_可不.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "CH4NGE (feat. 可不)",
+      "artist": "Giga feat. 可不",
+      "has_synced": true,
+      "path": "select/13_CH4NGE_(feat._可不)_Giga_feat._可不.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "CH4NGE - feat. KAFU",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/14_CH4NGE_-_feat._KAFU_Giga.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "CH4NGE(Live)",
+      "artist": "Giga feat. Ciel",
+      "has_synced": true,
+      "path": "select/15_CH4NGE(Live)_Giga_feat._Ciel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "CH4NGE (Self Cover)",
+      "artist": "ギガP",
+      "has_synced": true,
+      "path": "select/16_CH4NGE_(Self_Cover)_ギガP.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "CH4NGE - Instrumental",
+      "artist": "Giga",
+      "has_synced": false,
+      "path": "select/17_CH4NGE_-_Instrumental_Giga.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "CH4NGE (feat. KAF)",
+      "artist": "Giga",
+      "has_synced": false,
+      "path": "select/18_CH4NGE_(feat._KAF)_Giga.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "CH4NGE (feat. 可不)",
+      "artist": "Giga",
+      "has_synced": true,
+      "path": "select/19_CH4NGE_(feat._可不)_Giga.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CH4NGE",
+      "artist": "棗いつき",
+      "has_synced": false,
+      "path": "select/pl_01_CH4NGE_棗いつき.txt"
+    }
+  ]
+}
